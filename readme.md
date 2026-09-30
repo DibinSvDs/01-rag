@@ -129,4 +129,14 @@ python app.py
 
 ## Learning Goal
 
-This project was built to
+This project was built to understand the fundamentals of Retrieval-Augmented Generation (RAG), including:
+
+Document ingestion
+Text chunking
+Embeddings
+Vector databases
+Similarity search
+Context retrieval
+LLM-based answer generation
+
+The project intentionally uses a simple implementation to understand the underlying RAG pipeline before moving to higher-level frameworks and more advanced architectures.
